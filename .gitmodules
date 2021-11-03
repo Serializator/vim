@@ -1,0 +1,9 @@
+[submodule "pack/golang/start/vim-go"]
+	path = pack/golang/start/vim-go
+	url = git@github.com:fatih/vim-go.git
+[submodule "pack/golang/start/vim-delve"]
+	path = pack/golang/start/vim-delve
+	url = git@github.com:sebdah/vim-delve.git
+[submodule "pack/tmux/start/vimux"]
+	path = pack/tmux/start/vimux
+	url = git@github.com:preservim/vimux.git
